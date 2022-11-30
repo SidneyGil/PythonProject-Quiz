@@ -66,12 +66,12 @@ h3 {
 }
 
 .tm-text-white {
-  color: #ffffff;
+  color: #000000;
 }
 
 a.tm-text-white:hover,
 a.tm-text-white:focus {
-  color: #ffffff;
+  color: #000000;
 }
 
 .tm-text-green {
@@ -216,7 +216,7 @@ iframe {
 input,
 textarea,
 [contenteditable] {
-  caret-color: #ffffff;
+  caret-color: #000000;
 }
 
 p {
